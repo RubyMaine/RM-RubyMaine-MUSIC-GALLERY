@@ -4,7 +4,7 @@
 <br />
 <br />
 <br />
-Cайт создано в виде 𒆜 𝗥𝘂𝗯𝘆𝗠𝗮𝗶𝗻𝗲 𒆜 & DOCTOR LIFE через PHP_8.2 & MySQL_8.0 для личного портфолио 𒆜 𝗥𝘂𝗯𝘆𝗠𝗮𝗶𝗻𝗲 𒆜
+Cайт создано в виде 𒆜 𝗥𝘂𝗯𝘆𝗠𝗮𝗶𝗻𝗲 𒆜 & MUSIC GALLERY через PHP_8.2 & MySQL_8.0 для личного портфолио 𒆜 𝗥𝘂𝗯𝘆𝗠𝗮𝗶𝗻𝗲 𒆜
 
 [![TEXT_IMAGE](https://img.shields.io/badge/GitHub-EE0000??style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![TEXT](https://img.shields.io/badge/LICENSE:_MIT/APACHE-v2.0-EE0000??style=for-the-badge&logo=LibreOffice&logoColor=white)](#)
@@ -21,7 +21,7 @@ Cайт создано в виде 𒆜 𝗥𝘂𝗯𝘆𝗠𝗮𝗶𝗻𝗲 �
 </h3>
 
 
-# 𒆜 𝗥𝘂𝗯𝘆𝗠𝗮𝗶𝗻𝗲 𒆜 & DOCTOR LIFE создано с помощью:
+# 𒆜 𝗥𝘂𝗯𝘆𝗠𝗮𝗶𝗻𝗲 𒆜 & MUSIC GALLERY создано с помощью:
 > **PHP*8.2.2** + **Laravel*10.14**  + **MySQL*8.0.35** с большой любовью.
 
 
